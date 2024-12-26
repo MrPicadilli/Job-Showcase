@@ -5,7 +5,8 @@ This project was created for a research paper on the field of reflexivity in VR.
 
 I also made a tutorial to learn all the possible fonctionality of the main application with an interactive scenario which update automatically in function of the advancement of the player.
 
-The code is not linked because it belongs to the LIRIS
+The code is not linked because it belongs to the LIRIS and if you want to know more about [RENFORCE go explore their website](https://projet.liris.cnrs.fr/renforce/).
+
 ---
 
 ## Key Features
